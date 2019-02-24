@@ -1,5 +1,5 @@
 def say_hello(name = "Ruby Programmer!")
-  puts "Hello Kent Beck! #{name}"
+  puts "Hello #{name}"
 end
 
 require_relative './spec_helper'
